@@ -1,3 +1,3 @@
 cs3240
 ======
-#blah blah blah
+#blah blah
