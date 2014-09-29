@@ -1,5 +1,6 @@
+from helper import greeting
+
 message = raw_input("")
 
-def greeting(message):
-    print " "
-    print message
+greeting(message)
+
